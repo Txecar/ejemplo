@@ -1,0 +1,19 @@
+{
+  "name": "ejem",
+  "version": "1.0.0",
+  "description": "nada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Txecar@github.com/Txecar/ejemplo.git"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Txecar/ejemplo/issues"
+  },
+  "homepage": "https://github.com/Txecar/ejemplo#readme"
+}
