@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Txecar/ejemplo/issues"
   },
-  "homepage": "https://github.com/Txecar/ejemplo#readme"
+  "homepage": "https://github.com/Txecar/ejemplo#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
